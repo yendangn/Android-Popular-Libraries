@@ -8,6 +8,7 @@
  ### II. Image
  #### 1. [Loading image](http://square.github.io/picasso/)
  #### 2. [Custom image](https://github.com/vinc3m1/RoundedImageView)
+ #### 3. [RoundedImageView](https://github.com/vinc3m1/RoundedImageView)
  
  ### III. Resource Binding
  #### 1. [Butterknife](http://jakewharton.github.io/butterknife/)
@@ -23,5 +24,26 @@
  
  ### VII. Bluetooth LE
  #### 1. [RxAndroidBle](https://github.com/Polidea/RxAndroidBle)
+ 
+ ### VIII. Animation
+ #### 1. [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)
+ 
+ ### IX. Material Dialogs
+ #### 1. [Material Dialogs](https://github.com/afollestad/material-dialogs)
+ 
+ ### X. Custom font
+ #### 1.[Calligraphy](https://github.com/chrisjenx/Calligraphy)
+ 
+ ### XI. Annotations
+ #### 1.[Lombok](http://www.vogella.com/tutorials/Lombok/article.html)
+ 
+ ### XII. Support library
+ #### 1.[Support library](https://developer.android.com/topic/libraries/support-library/features)
+ 
+ 
+ ### XIII. Crash report
+  #### 1.[Frirebase crash report](https://firebase.google.com/docs/crash/)
+ 
+ 
  
  
