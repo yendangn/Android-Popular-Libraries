@@ -12,3 +12,16 @@
  ### III. Resource Binding
  #### 1. [Butterknife](http://jakewharton.github.io/butterknife/)
  
+ ### IV. QR code
+ #### 1. [Barcode Scanner](https://github.com/dm77/barcodescanner)
+ 
+ ### V. Chart
+ #### 1. [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
+ 
+ ### VI. Real time Permissions 
+ #### 1. [MPAndroidChart](https://github.com/tbruyelle/RxPermissions)
+ 
+ ### VII. Bluetooth LE
+ #### 1. [RxAndroidBle](https://github.com/Polidea/RxAndroidBle)
+ 
+ 
